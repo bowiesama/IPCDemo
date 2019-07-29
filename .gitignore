@@ -19,6 +19,7 @@ ID
 *.user
 *.ncb
 *.suo
+*.xcuserstate
 
 # Ignore the files and directory that Xcode IDE creates
 xcuserdata/
@@ -30,6 +31,8 @@ project.xcworkspace/
 */bin/
 */maps/
 */distribution/
+*/Build/
+*/Index/
 
 objs/
 bin/
